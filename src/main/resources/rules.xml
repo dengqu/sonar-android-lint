@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rules>
+    <rule>
+        <key>ComponentsMustNotBeFollowedByComponentsRule</key>
+
+        <name>test标签后不能跟随Components标签规则</name>
+        <description>
+            <![CDATA[
+                test标签后不能跟随Components标签
+            ]]>
+        </description>
+        <severity>MINOR</severity>
+        <cardinality>SINGLE</cardinality>
+        <status>READY</status>
+        <tag>custom</tag>
+        <example>
+            <![CDATA[
+                <components>
+                <!-- Error, components must be here! -->
+                    <components/>
+                </components>
+            ]]>
+        </example>
+    </rule>
+
+    <rule>
+        <key>AdapterViewChildren</key>
+
+        <name>AdapterViews cannot have children in XML</name>
+        <description>
+            <![CDATA[
+                AdapterViewChildren
+            ]]>
+        </description>
+        <severity>MINOR</severity>
+        <cardinality>SINGLE</cardinality>
+        <status>READY</status>
+        <tag>custom</tag>
+        <example>
+            <![CDATA[
+                <components>
+                <!-- Error, components must be here! -->
+                    <components/>
+                </components>
+            ]]>
+        </example>
+    </rule>
+
+    <rule>
+        <key>ScrollViewSize</key>
+        <name>ScrollView size validation</name>
+        <description><![CDATA[ScrollView children must set their <code>layout_width</code> or <code>layout_height</code> attributes to <code>wrap_content</code> rather than <code>fill_parent</code> or <code>match_parent</code> in the scrolling dimension]]></description>
+        <severity>MAJOR</severity>
+        <string>Correctness</string>
+    </rule>
+
+</rules>
