@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.codehaus.sonar.sslr:sslr-core:1.20">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/sonar/sslr/sslr-core/1.20/sslr-core-1.20.jar!/" />
+      <root url="jar://$USER_HOME$/.m2/repository/org/codehaus/sonar/sslr/sslr-core/1.20/sslr-core-1.20.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/sonar/sslr/sslr-core/1.20/sslr-core-1.20-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.m2/repository/org/codehaus/sonar/sslr/sslr-core/1.20/sslr-core-1.20-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/sonar/sslr/sslr-core/1.20/sslr-core-1.20-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.m2/repository/org/codehaus/sonar/sslr/sslr-core/1.20/sslr-core-1.20-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

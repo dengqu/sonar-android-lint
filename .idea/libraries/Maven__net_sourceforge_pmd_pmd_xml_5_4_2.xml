@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: net.sourceforge.pmd:pmd-xml:5.4.2">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/net/sourceforge/pmd/pmd-xml/5.4.2/pmd-xml-5.4.2.jar!/" />
+      <root url="jar://$USER_HOME$/.m2/repository/net/sourceforge/pmd/pmd-xml/5.4.2/pmd-xml-5.4.2.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/net/sourceforge/pmd/pmd-xml/5.4.2/pmd-xml-5.4.2-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.m2/repository/net/sourceforge/pmd/pmd-xml/5.4.2/pmd-xml-5.4.2-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/net/sourceforge/pmd/pmd-xml/5.4.2/pmd-xml-5.4.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.m2/repository/net/sourceforge/pmd/pmd-xml/5.4.2/pmd-xml-5.4.2-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

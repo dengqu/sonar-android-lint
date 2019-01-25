@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.lambeta</groupId>
-    <artifactId>sonar-custom</artifactId>
+    <artifactId>sonar-android-lint</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>sonar-plugin</packaging>
 
-    <name>sonar-custom</name>
+    <name>sonar-android-lint</name>
     <url>https://www.lambeta.com</url>
 
     <properties>
