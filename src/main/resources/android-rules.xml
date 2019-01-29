@@ -1338,4 +1338,11 @@ If you have started adding RTL attributes, but have not yet finished the migrati
       <severity>MINOR</severity>
       <string>Bi-directional Text</string>
    </rule>
+   <rule>
+      <key>Zhenai_ToastUseError</key>
+      <name>警告:你应该使用我们团队自定义的Toast工具类{ToastUtil}</name>
+      <description>你不能直接使用Toast，你应该使用我们团队自定义的Toast工具类{ToastUtil}</description>
+      <severity>MINOR</severity>
+      <string>Bi-directional Text</string>
+   </rule>
 </rules>
